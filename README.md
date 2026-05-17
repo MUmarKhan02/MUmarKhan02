@@ -12,13 +12,7 @@ Here are some quick fun facts about me:
 - I love coding with my life but holy I cannot stare at a computer screen for like more than an hour of my time cause otherwise I start to get restless and bored. Which then leaves me to procrastinating and doing absolutely nothing for the next 3 hours after #WForLaziness
 - My regular day goes as follows: Wake up, have coffee, apply nonstop for jobs, work on projects, go gym, work on projects again, sleep and suffer. (While in between each activity, I'm slacking off doing something else entirely that's unrelated to anything
 
----
 
-## GitHub Stats 📊
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MUmarKhan02&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MUmarKhan02&layout=compact&theme=tokyonight&hide_border=true)
 <!--
 **MUmarKhan02/MUmarKhan02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
