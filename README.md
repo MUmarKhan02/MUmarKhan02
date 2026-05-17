@@ -13,12 +13,12 @@ Here are some quick fun facts about me:
 - My regular day goes as follows: Wake up, have coffee, apply nonstop for jobs, work on projects, go gym, work on projects again, sleep and suffer. (While in between each activity, I'm slacking off doing something else entirely that's unrelated to anything
 
 ---
+
 ## GitHub Stats 📊
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MUmarKhan02&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUmarKhan02&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+![Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MUmarKhan02&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MUmarKhan02&layout=compact&theme=tokyonight&hide_border=true)
 <!--
 **MUmarKhan02/MUmarKhan02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
