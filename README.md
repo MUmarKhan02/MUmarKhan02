@@ -1,11 +1,9 @@
-# *ReadME WORK IN PROGRESS*
-
-# Hi! I'm Umar 
+# Greetings! I'm Umar 
 
 Here are some quick fun facts about me:
 
-- I graduated from University of Windsor with a bachelors degree in Computer Science with Software Engineering Option
-- I am currently pursuing my masters degree in Computer Science at Wayne State University
+- I graduated from University of Windsor with a Bachelors Degree in Computer Science with Software Engineering Option
+- I am currently pursuing my Masters Degree in Computer Science at Wayne State University
 - My main interests are AI, ML, and of course....software engineering...lol
 - My main comfortable languages to work with are Java, Python, and HTML/CSS/JS.
 - Recently I have been working more on C# and ASP.NET projects so we'll see how my comfort languages change. Maybe I finally leave the dark path of Java behind me and embrace the light of Python, C#, JS.....(nah maybe not)
