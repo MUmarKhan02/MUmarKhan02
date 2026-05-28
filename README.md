@@ -13,15 +13,10 @@ Here are some quick fun facts about me:
 
 ### 📊 My GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUmarKhan02&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUmarKhan02&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🏆 My Github Trophies
-🏆 Here are some dynamically generated showcase trophies for my account:
-
-[![github profile trophy](https://github-profile-trophy.vercel.app/?username=MUmarKhan02&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="center">
+  <img src="https://github-readme-metrics.vercel.app/api?username=MUmarKhan02&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-metrics.vercel.app/api/top-langs/?username=MUmarKhan02&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
 <!--
 **MUmarKhan02/MUmarKhan02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
