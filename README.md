@@ -20,18 +20,21 @@ Here are some quick fun facts about me:
 
 - Full-stack AI document processing platform built with ASP.NET Core, FastAPI, Celery, Redis, React, and PostgreSQL. Upload any document and get an AI-generated summary, extracted fields, and metadata — processed asynchronously through a parse → chunk → analyze pipeline with real-time progress updates.
 - I built this because I wanted to tackle something that felt genuinely complex end-to-end — async workers, SSE streaming, JWT auth with refresh tokens, Docker Compose, and actual cloud deployment. Basically threw everything at it to see if I could make it all work together. Spoiler: eventually yes, after suffering for a while.
+- Another reason is that I wanted to create a full stack application with C# but because this particular application requires AI, I am not ready to handle AI integration with C# so I decided for a unique dual Python and C# program with C# running the main backend API services and Python running the AI integration. Though I will be honest.....this was pain :)
 - Deployed on Railway (backend + workers) and Vercel (frontend). Uses Gemini 2.5 Flash for the AI processing side.
 
 ### [Blog Platform](https://d3djg0s7uij4hb.cloudfront.net/)
 
 - Full-stack blogging platform built with Spring Boot, React, TypeScript, and PostgreSQL. Features JWT authentication with role-based access control, a rich text editor with DOMPurify sanitization, and full AWS deployment across Elastic Beanstalk, RDS, S3, and CloudFront.
 - Honestly built this to get proper hands-on with AWS because everyone talks about it but actually setting up Elastic Beanstalk, hooking RDS to it, and proxying everything through CloudFront is a different experience entirely. Worth the pain.
+- This project was also my first proper full stack application and one of which that I made before I started developing AI integration systems.
 - All API traffic routes through CloudFront for unified HTTPS delivery which was probably the most satisfying part to get working.
 
 ### [AdaptIQ](https://github.com/MUmarKhan02/AdaptIQ)
 
 - Full-stack AI resume tailoring tool powered by Google Gemini. Paste a job link or description, upload your resume, and get a tailored ATS-optimized version with a 5-metric score breakdown and cover letter.
 - Built this out of pure frustration with the job application process. Tailoring a resume for every single posting is genuinely exhausting so I automated it. Single-pass LLM pipeline keeps it fast and cuts API overhead significantly.
+- Also, several AI tailoring tools available online requires upgrading tiers with money. I am not one to spend and waste my money on that, so I thought.....if apps like these exists, why don't I make one for myself without having to pay in the first place?
 - The 5-metric ATS scoring engine (parsing ability, keyword coverage, quantification rate, job match, and injection quality) was the most interesting part to design because it had to be actually useful, not just a fake score.
 
 ### [SwiftFill](https://github.com/MUmarKhan02/SwiftFill)
