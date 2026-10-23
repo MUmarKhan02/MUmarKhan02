@@ -27,7 +27,7 @@ A local AI study and research platform powered by LLMs. MindForge combines docum
 
 **Focus:** Local LLMs · RAG Pipelines · Document Intelligence · Python
 
-**[Source Code](https://github.com/MUmarKhan02/MindForge)** · **[Demo Video](#)**
+**[Source Code](https://github.com/MUmarKhan02/MindForge)** · **[Demo Video](https://www.youtube.com/watch?v=TWpiLtolqIg)**
 
 ### 🧠 Transfer Learning & Domain Generalization — ML Research
 
@@ -55,7 +55,7 @@ An AI-powered document-processing platform built to streamline document analysis
 
 **Focus:** ASP.NET Core · FastAPI · React · PostgreSQL · Redis · Celery · AI Integration
 
-**[Source Code](https://github.com/MUmarKhan02/AutoOps-AI)**
+**[Source Code](https://github.com/MUmarKhan02/AutoOps-AI)** · **[Live URL](https://auto-ops-ai-mu.vercel.app)** ·
 
 ### 🧩 SwiftFill — Browser Automation
 
@@ -92,19 +92,11 @@ A browser extension that hides job listings you've already applied to or dismiss
 
 ---
 
-## Technologies
+## GitHub Stats
 
-**Languages:** Java, Python, C, C++, C#, JavaScript, TypeScript, SQL
-
-**Backend:** Spring Boot, ASP.NET Core, FastAPI, Node.js, Express.js, REST APIs
-
-**Frontend:** React, Vite, HTML, CSS, Tailwind CSS
-
-**Databases:** PostgreSQL, SQLite, MongoDB
-
-**AI & Machine Learning:** PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, Matplotlib, LLMs, RAG
-
-**Tools & Cloud:** Git, GitHub, Docker, AWS, Ollama
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUmarKhan02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 
