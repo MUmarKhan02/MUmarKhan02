@@ -72,26 +72,6 @@ A Chrome extension designed to reduce repetitive work during job applications by
 
 ---
 
-## Other Tools
-
-### 📧 Gmail Job Monitor
-
-A command-line tool for monitoring job-related emails and keeping application communications easier to track.
-
-**Focus:** Python · CLI Development · Email Processing
-
-**[Source Code](https://github.com/MUmarKhan02/Gmail-Job-Monitor)**
-
-### 🧹 Job Board Cleaner
-
-A browser extension that hides job listings you've already applied to or dismissed, helping keep job searches focused on opportunities you haven't reviewed.
-
-**Focus:** Browser Extensions · JavaScript · DOM Manipulation
-
-**Repository:** Coming soon
-
----
-
 ## GitHub Stats
 
 <p align="center">
