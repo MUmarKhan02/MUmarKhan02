@@ -41,7 +41,7 @@ A group research project investigating how backbone layer freezing affects model
 
 **Focus:** PyTorch · Transfer Learning · Experimental Design · Model Evaluation
 
-**[CIFAR Experiments](#)** · **[Brain MRI Experiments](#)** · **[Final Report](#)** · **[Presentation](#)**
+**[CIFAR Experiments](#)** · **[Brain MRI Experiments](#)** 
 
 ### ⚙️ AutoOps AI — Full-Stack Engineering
 
@@ -55,7 +55,7 @@ An AI-powered document-processing platform built to streamline document analysis
 
 **Focus:** ASP.NET Core · FastAPI · React · PostgreSQL · Redis · Celery · AI Integration
 
-**[Source Code](https://github.com/MUmarKhan02/AutoOps-AI)** · **[Live URL](https://auto-ops-ai-mu.vercel.app)** ·
+**[Source Code](https://github.com/MUmarKhan02/AutoOps-AI)** · **[Live URL](https://auto-ops-ai-mu.vercel.app)**
 
 ### 🧩 SwiftFill — Browser Automation
 
@@ -78,6 +78,3 @@ A Chrome extension designed to reduce repetitive work during job applications by
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUmarKhan02&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
----
-
-*Building software, exploring AI, and learning by shipping projects.*
