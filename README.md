@@ -9,7 +9,6 @@ I enjoy working across the stack — from backend architecture and APIs to intel
 - 🛠️ Working with Java, Python, C#, React, PostgreSQL, and AWS
 - 🚀 Always building, experimenting, and learning something new
 
-**[Portfolio](https://mumarkhan02.github.io/Website/)**
 
 ---
 
